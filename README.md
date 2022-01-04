@@ -1,2 +1,0 @@
-# FHU
-The game repository
